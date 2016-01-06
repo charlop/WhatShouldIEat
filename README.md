@@ -12,6 +12,9 @@ Users can also suggest new places to be added to the list.
 
 ## Basic Usage Demo
 --------------
+#### First Suggestion:
 ![First Suggestion](http://charlopov.com/img/portfolio/wsie/harveys.png)
+#### Second Suggestion:
 ![Second Suggestion](http://charlopov.com/img/portfolio/wsie/sams.png)
+#### Get Directions:
 ![Get Directions](http://charlopov.com/img/portfolio/wsie/samssearch.png)
