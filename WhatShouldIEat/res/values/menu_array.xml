@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_array">
+        <item>Search</item>
+        <item>About</item>
+        <item>Change Preferences</item>
+        <item>Suggest New Location</item>
+        <item>Reset...</item>
+	</string-array>
+	
+    <array name="samspizza">
+        <item>R.drawable.samspizza</item>
+    </array>   
+    <array name="harveys">
+        <item>R.darawble.harveys</item>
+    </array>
+    <array name="shawarmacastle">
+        <item>R.drawable.shawarmacastle</item>
+    </array>
+    <array name="mcdonalds">
+        <item>R.drawable.mcdonalds</item>
+    </array>
+    <array name="pizzahut">
+        <item>R.drawable.pizzahut</item>
+    </array>
+    <array name="frenchfries">
+        <item>R.drawable.frenchfries</item>
+    </array>
+    <array name="hotdogs">
+        <item>R.drawable.hotdogs</item>
+    </array>
+    <array name="hamburgers">
+        <item>R.drawable.placeholder</item>
+    </array>
+</resources>
